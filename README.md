@@ -81,13 +81,6 @@ paper: https://arxiv.org/abs/2411.13623
 
 paper: https://cvpr.thecvf.com/Conferences/2025/AcceptedPapers
 
-**16. Unsupervised Foundation Model-Agnostic Slide-Level Representation Learning**
-
-paper: https://arxiv.org/abs/2411.13623
-
-**16. Unsupervised Foundation Model-Agnostic Slide-Level Representation Learning**
-
-paper: https://arxiv.org/abs/2411.13623
 
 
 
